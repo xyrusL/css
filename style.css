@@ -1331,6 +1331,17 @@ img {
     color: rgba(255,255,255,.78);
     margin-bottom: 10px;
     height: 160px
+    display: none;
+}
+
+#featuredCardContainer {
+    position: relative;
+    width: 100%;
+    overflow: hidden;
+}
+
+.featuredCard.active {
+    display: block;
 }
 
 #featuredbg {
