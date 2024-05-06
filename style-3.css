@@ -1340,7 +1340,7 @@ img {
     overflow: hidden;
 }
 
-.featuredCard.active {
+.featuredCardActive {
     display: block;
 }
 
