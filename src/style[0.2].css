@@ -1251,7 +1251,7 @@ img {
     border-radius: 0 0 5px 0
 }
 
-.rating .glyphicon, .rating fa-star {
+.rating .glyphicon, .rating i .fa-solid .fa-star {
     color: #ffcb00c7
 }
 
