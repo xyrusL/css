@@ -1251,9 +1251,10 @@ img {
     border-radius: 0 0 5px 0
 }
 
-.rating .glyphicon, .rating i .fa-solid .fa-star {
-    color: #ffcb00c7
+.rating .glyphicon, .rating i.fa-solid.fa-star {
+    color: #ffcb00c7;
 }
+
 
 #recomendedlist {
     margin-right: 10px;
