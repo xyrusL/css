@@ -708,7 +708,7 @@ a:hover {
 
 a {
     background-color: transparent;
-    color: #a7ccea;
+    color: #ac72ff;
     text-decoration: none
 }
 
@@ -1480,7 +1480,7 @@ img {
     background-color: #24282f;
     padding: 5px;
     margin-top: 30px;
-    color: #99d4ff;
+    color: #9561e2;
     border: 1px solid #444e5b;
     border-radius: 4px
 }
@@ -1623,7 +1623,7 @@ img {
 }
 
 .name {
-    color: #95b6d0
+    color: #b496e0
 }
 
 .quickresult li:hover {
