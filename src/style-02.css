@@ -672,8 +672,8 @@ a.label:focus,a.label:hover {
 
 .btn-primary {
     color: #fff;
-    background-color: #3d698c;
-    border-color: #28455e
+    background-color: #7f43b09e;
+    border-color: #0c1a5b
 }
 
 .btn-primary:focus {
@@ -2495,7 +2495,7 @@ body::-webkit-scrollbar-thumb,#playerleftsidebar::-webkit-scrollbar-thumb,#epsli
 }
 
 .playbutton:disabled,.playbutton[disabled],.playbuttonextra:disabled,.playbuttonextra[disabled] {
-    background-color: #4d7944!important;
+    background-color: #232f74!important;
     border-color: #244a1c
 }
 
