@@ -674,6 +674,7 @@ a.label:focus,a.label:hover {
     color: #fff;
     background-color: #7f43b09e;
     border-color: #0c1a5b
+    border-radius: 3px;
 }
 
 .btn-primary:focus {
@@ -4363,7 +4364,7 @@ input:checked + .slider:before {
     }
 
     .subpart {
-        background-color: #263239
+        background-color: #242627
     }
 
     #streamtypecontainer {
