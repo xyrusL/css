@@ -4117,7 +4117,7 @@ input:checked + .slider:before {
 .nav-tabs li a {
     cursor: pointer;
     background-color: #282828;
-    color: #87b4ce;
+    color: #ac72ff;
     font-size: 17px;
     border-radius: 0
 }
