@@ -1,9 +1,13 @@
 .lexend-deca {
   font-family: "Lexend Deca", sans-serif;
   font-optical-sizing: auto;
-  font-weight: 700;
   font-style: normal;
 }
+
+html {
+  --plyr-color-main: #f18f35;
+}
+
 
 body {
     margin: 0
