@@ -3583,7 +3583,7 @@ select {
     font-size: 17px
 }
 
-#notifiaction,#reportform,#confdialog {
+#notifiaction,#reportform,#confdialog, .notifNotice {
     position: fixed;
     top: 130px;
     width: 300px;
@@ -3609,7 +3609,7 @@ select {
     background-color: rgb(55,55,55)
 }
 
-#reportform,#confdialog {
+#reportform,#confdialog,.notifNotice {
     top: calc(50% - 160px)
 }
 
